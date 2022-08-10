@@ -5,3 +5,12 @@
     --atom: #F39B6D;
     --pistachio: #8CD867;
 }
+
+header {
+    color: #71A2B6;
+}
+
+.card-body,
+.card {
+    background-color: #71A2B6;
+}
