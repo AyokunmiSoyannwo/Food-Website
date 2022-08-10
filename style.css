@@ -11,6 +11,11 @@ header {
 }
 
 .card-body,
-.card {
+.card,
+.list-group-item {
     background-color: #71A2B6;
+}
+
+.container {
+    display: flex;
 }
